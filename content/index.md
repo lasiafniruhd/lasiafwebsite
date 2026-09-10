@@ -1,11 +1,7 @@
 ---
-title: Welcome to my blog
+title: Welcome...
 ---
-Hello, and welcome to my blog.
+Welcome to my little corner of the internet, where I write about things I’m learning and figuring out.
 
-Welcome to my little corner of the internet. I hope this blog will become a place where I can learn, practice, experiment, and share my journey along the way.
-
-test [[lin]]
-
----
+[[tech & geek]] · [[chemistry]] · [[book summary]]
 
