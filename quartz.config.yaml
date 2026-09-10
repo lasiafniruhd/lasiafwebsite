@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: lasiafniruhd.github.io/quartz
+  baseUrl: lasiafniruhd.github.io/lasiafwebsite
   ignorePatterns:
     - private
     - templates
